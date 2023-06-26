@@ -25,7 +25,7 @@ To ensure the code and software application were functional and secure, I went t
 
 **What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?**
 
-In this project, I utilized resources like OWASP Dependency-Check Maven for static testing and identifying vulnerabilities in external dependencies. I also followed secure coding practices such as input validation, secure data handling, and encryption. These tools and practices can be valuable in future assignments or tasks to ensure software security and mitigate potential vulnerabilities.
+In this assignment, I utilized resources such as the OWASP Dependency-Check tool to perform static testing and ensure that the code complies with software security enhancements. I incorporated this tool by adding it as a plugin in the project's pom.xml file and running it to analyze the project's dependencies. By verifying the correct version and configuration of the dependency-check plugin in the pom.xml, I was able to effectively assess and address any potential security vulnerabilities in the project's dependencies. These practices and tools can be valuable resources in future assignments or tasks to enhance software security.
 
 **Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?**
 
